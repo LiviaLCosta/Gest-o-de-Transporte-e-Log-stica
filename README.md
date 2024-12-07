@@ -47,3 +47,8 @@ O banco de dados está configurado para garantir a consistência referencial, co
 ### Validação no Oracle:
 - Teste esses scripts no Oracle SQL Developer ou no SQL*Plus.
 - Certifique-se de que todas as tabelas são criadas corretamente e que as inserções de dados são realizadas sem erros.
+
+### Autores
+- Erick Alves da Silva - RA:183433
+- Livia Lima Costa - RA:182034
+- Raphael Cerqueira da Costa Santana - RA:181906
